@@ -211,5 +211,5 @@ You can use image URLs from Google or from anywhere you like. A good source with
 ---
 
 ## 📤 What to submit:
-- GitHub Repository Link:
-- Live Site Link:
+- GitHub Repository Link: <https://github.com/annoying-anna/dev-stack-builder>
+- Live Site Link: <https://annoying-anna.github.io/dev-stack-builder/>
